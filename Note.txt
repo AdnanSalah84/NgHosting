@@ -1,0 +1,8 @@
+> firebase init
+> Hosting: Configure and deploy Firebase Hosting sites (Select this option)
+> ? What do you want to use as your public directory? (public) dist
+> ng build --prod
+> firebase deploy
+
+godaddy
+https://dnschecker.org/
